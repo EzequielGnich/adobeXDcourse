@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="221.843" height="49" viewBox="0 0 221.843 49">
+  <g id="logo-branco_verde" data-name="logo-branco+verde" transform="translate(-96 -344)">
+    <g id="Grupo_94" data-name="Grupo 94" transform="translate(-75.614 -24)">
+      <g id="Grupo_93" data-name="Grupo 93" transform="translate(171.614 368)">
+        <text id="MoneyMio" transform="translate(38.843 37)" fill="#fff" font-size="35" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Money</tspan><tspan y="0" fill="#2edbd4" font-family="Poppins-Regular, Poppins" font-weight="400">Mio</tspan></text>
+        <g id="Grupo_8" data-name="Grupo 8" transform="translate(0 9.446)">
+          <g id="Menu" transform="translate(17.185 0) rotate(90)">
+            <g id="Grupo_6" data-name="Grupo 6" opacity="0.9">
+              <path id="Caminho_12" data-name="Caminho 12" d="M31.419,3.324H1.662A1.662,1.662,0,1,1,1.662,0H31.419a1.662,1.662,0,0,1,0,3.324Z" transform="translate(0 6.928)" fill="#fff"/>
+              <path id="Caminho_13" data-name="Caminho 13" d="M23.776,3.324H1c-.552,0-1-.747-1-1.662S.45,0,1,0H23.776c.552,0,1,.747,1,1.662S24.328,3.324,23.776,3.324Z" transform="translate(4.151)" fill="#fff"/>
+              <path id="Caminho_14" data-name="Caminho 14" d="M22.587,3.324H1.662A1.662,1.662,0,0,1,1.662,0H22.587a1.662,1.662,0,1,1,0,3.324Z" transform="translate(4.681 13.861)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
